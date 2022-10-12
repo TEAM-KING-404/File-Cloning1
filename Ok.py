@@ -10,7 +10,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from cy import ___fuckyoursystem____
+    from cy
 
     ___fuckyoursystem____()
 
